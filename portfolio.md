@@ -65,3 +65,6 @@ TensorFlow/Keras 사용, 손글씨 숫자 또는 동물 이미지 분류
 
 RNN 기반 또는 GPT API 활용, FAQ 자동 응답 기능
 
+
+
+## 병합전
